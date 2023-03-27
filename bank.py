@@ -1,5 +1,5 @@
 # bank.py
-# Author Robert O'Brien-Monk
+# Author: Robert O'Brien-Monk
 # Take in 2 values of money in cents, add together and return in formatted reply
 
 #prompt user
